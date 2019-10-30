@@ -1,0 +1,8 @@
+P7: 112
+inc: 3
+date: 102
+srange: 5
+qq_start: 5
+qq_end: 100
+qq_increment: 5
+qq_limit: 0.3
